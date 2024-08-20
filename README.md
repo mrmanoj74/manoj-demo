@@ -1,4 +1,4 @@
 # manoj-demo
 This is my first Git Repository.
 <br>
-Author - Manoj Panchal
+Author - Manoj Ram Panchal
